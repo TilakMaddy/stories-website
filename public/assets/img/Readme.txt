@@ -1,0 +1,1 @@
+Just a static asset / bunch of site images - this is not where people's images will be stored. !
